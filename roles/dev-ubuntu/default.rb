@@ -1,4 +1,5 @@
 include_recipe '../../cookbooks/docker'
+include_recipe '../../cookbooks/node'
 include_recipe '../../cookbooks/mosh'
 include_recipe '../../cookbooks/fish'
 include_recipe '../../cookbooks/ruby'
